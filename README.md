@@ -6,7 +6,7 @@ Objectives:
 
 To date, most of the data that we have used in Python has been assigned to variables using the variable assignment **=** operator.  However, it is also important to be able to receive input form the user while the program is running and to make use of that data. 
 
-The input() command is used to do that.  It accepts 1 parameter inside the bracket. This is displayed as output, and then the program pauses and waits for data to be entered from the keyboard.  Pressing the Enter key signals the end of data and passes that information to the command.  It should then be assigned to a variable.  To see how this should be used, open up the example1.py file included with your assignment.
+The input() command is used to do that.  It accepts 1 parameter inside the bracket. This is displayed as output, and thne the program pauses and waits for data to be entered from the keyboard.  Pressing the Enter key signals the end of data and passes that information to the command.  It should then be assigned to a variable.  To see how this should be used, open up the example1.py file included with your assignment.
 
 Note: the data received from an input() statement is always a string, and can't be used to enter a *float* or *int* type variable.  This is one of the reasons that *casting* a variable as another type is important.  We can use the following:
 

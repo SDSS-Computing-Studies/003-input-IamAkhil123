@@ -13,3 +13,13 @@
 # Note: You will need to do some strange things with your cube root.
 # Remember that a cube root is the same as an exponent of 1/3, but
 # here you will need to do a power of 1.0/3 or something strange happens.
+
+input ("enter volume of sphere")
+a = input()
+a = str
+b = str(a)/4
+c = a/3.14
+d = b*c
+e = d*3
+f = e*1.0/3
+print (f)
