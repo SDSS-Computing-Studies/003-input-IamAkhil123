@@ -1,7 +1,8 @@
 #! python3
-print("Enter radius of sphere")
+import math
+
 B = input()
-A = 4 / 3 * 3.14 * float (B) * float (B) * float (B)
+A = 4 / 3 * math.pi * float (B) * float (B) * float (B)
 print(A)
 
 # Find the volume of a sphere.

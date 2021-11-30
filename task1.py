@@ -1,4 +1,5 @@
 #! python3
-print("What is your name and email address")
-input()
-print ("Your name is joe Lunchbox and your email is joe@koolsandwiches.org")
+
+input("what is your name and email address")
+print("Your name is Joe Lunchbox")
+print ("and your email is joe@koolsandwiches.org")
