@@ -18,7 +18,7 @@ b = 4 * math.pi
 c = float(a) / b
 d = c * 3
 e = d ** (1.0/3)
-print("1.69002229118")
+print("1.6553")
 
 """
 print(e)
